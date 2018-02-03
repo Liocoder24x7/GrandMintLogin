@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GrandMintLogin</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email-id</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="already_signed_up_log_in_btn">Already Signed Up? Log In</string>
+    <string name="log_in_btn">Log In</string>
+    <string name="mail_inp_text">Enter Proper Credentials</string>
+    <string name="check_btn">Check Verification</string>
+    <string name="proceed_btn">Proceed</string>
+    <string name="verification_desc">Click on verification link from the mail provided if you are a first time user</string>
+</resources>
